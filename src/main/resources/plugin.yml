@@ -1,0 +1,8 @@
+name: MSUCore
+authors: [ MCUmbrella ]
+version: '${project.version}'
+description: Provide common features for MSU products
+website: https://github.com/MSUPugins/MSUCore
+main: vip.floatationdevice.msu.MSUCore
+api-version: 1.13
+load: STARTUP
