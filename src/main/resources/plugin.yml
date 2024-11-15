@@ -4,5 +4,5 @@ version: '${project.version}'
 description: Provide common features for MSU products
 website: https://github.com/MSUPlugins/MSUCore
 main: vip.floatationdevice.msu.MSUCore
-api-version: 1.13
+api-version: 1.21
 load: STARTUP
